@@ -1,11 +1,10 @@
 # ShopRoute
 This is an application that allows people to buy different products from different known shops in Rwanda online
-
-#Authors
+# Authors
 * Odile Uwimpuhwe
-*Bertine Kunda
+* Bertine Kunda
 
-#Technologies Used
-*HTML
-*CSS
-*PHP
+# Technologies Used
+* HTML
+* CSS
+* PHP
