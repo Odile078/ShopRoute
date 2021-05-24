@@ -1,0 +1,41 @@
+
+body{
+    font-family: Arial;
+    
+}
+.success-page{
+    max-width:300px;
+    display:block;
+    margin: 0 auto;
+    text-align: center;
+    position: relative;
+    top: 50%;
+    transform: perspective(1px) translateY(50%)
+  }
+  .success-page img{
+    max-width:250px;
+    display: block;
+    margin: 0 auto;
+  }
+  
+  .btn-view-orders{
+    display: block;
+    border:1px solid green;
+    width:150px;
+    margin: 0 auto;
+    margin-top: 105px;
+    padding: 10px;
+    color:#fff;
+    background-color:green;
+    text-decoration: none;
+    margin-top: 10px;
+  }
+  h2{
+    color:green;
+      margin-top: 25px;
+  
+  }
+  a{
+    text-decoration: none;
+  }
+ 
